@@ -53,3 +53,15 @@ Contributions are what make the open-source community such an amazing place to l
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+## Deployment
+
+The project is deployed and accessible at [https://pneumoniadetect.streamlit.app/](https://pneumoniadetect.streamlit.app/)
+
+## Images
+#### Pneumonia Detected
+![image](https://github.com/Theagentvikram/PneumoniaDetection/assets/111900847/4969c3f1-5907-4aef-b0aa-fbad04a3b3be)
+#### Pneumonia Not detected
+![image](https://github.com/Theagentvikram/PneumoniaDetection/assets/111900847/0a67ef7e-59d2-43b5-8590-7fbe2de920a8)
+
+
