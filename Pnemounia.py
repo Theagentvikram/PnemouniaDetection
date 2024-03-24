@@ -1,4 +1,3 @@
-!pip install torch
 import streamlit as st
 from PIL import Image
 import torch
