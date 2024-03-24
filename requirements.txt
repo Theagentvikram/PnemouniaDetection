@@ -1,4 +1,1 @@
-streamlit==0.90.0
 torch==1.10.0
-transformers==4.13.0
-pillow==8.4.0
